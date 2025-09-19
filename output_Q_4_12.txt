@@ -1,0 +1,11 @@
+abhishekahirrao@Abhisheks-MacBook-Pro src % python3 Q_4_12.py   
+Problem 4.12: Recursive Feature Elimination
+==================================================
+All features - Accuracy: 0.950
+Weights: {'HMM': np.float64(0.19688023618849115), 'SSD': np.float64(-0.5349402505515937), 'OGS': np.float64(-0.7048714248512735)}
+
+Removed HMM - Accuracy: 0.950
+Remaining weights: {'SSD': np.float64(-2.4448946476350617), 'OGS': np.float64(-2.241868966609612)}
+
+Removed OGS - Accuracy: 0.950
+Remaining weights: {'SSD': np.float64(-3.87596913288968)}

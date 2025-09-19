@@ -1,0 +1,12 @@
+abhishekahirrao@Abhisheks-MacBook-Pro src % python3 Q_4_15.py
+Problem 4.15: SSMO Algorithm
+========================================
+Part (a) - Systematic selection:
+Lambda values: [0.         0.         2.5        0.         1.01375107 1.48624893]
+b: -6.000000
+Weights: w1=1.013751, w2=1.486249
+
+Part (b) - Random selection:
+Lambda values: [ 1.21769   0.        1.025848 -1.230614  1.012924  2.461228]
+b: -1.000000
+Weights: w1=1.000000, w2=0.000000

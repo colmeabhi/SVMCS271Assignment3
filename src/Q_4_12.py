@@ -44,7 +44,7 @@ def rfe_svm():
     X_train, y_train, X_test, y_test = load_data()
     feature_names = ['HMM', 'SSD', 'OGS']
     
-    print("Problem 4.12: Recursive Feature Elimination")
+    print("Problem 4.12")
     print("=" * 50)
     
     # Part (a): Train with all features
